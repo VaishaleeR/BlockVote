@@ -11,6 +11,7 @@ go a long in ameliorating the problems of the existing manual system of voting i
 electoral process. 
 
 Project Site/ Tools used:
+
 • Ganache: We used ganache software to have local Ethereum blockchain for testing the
 Solidity contracts. It provides more features when compared to Remix.
 • Node Js: Node.js is an open-source, cross-platform, back-end JavaScript runtime
